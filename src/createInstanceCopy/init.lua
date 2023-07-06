@@ -11,4 +11,5 @@ return function(instance)
 	elseif instance:IsA("Shirt") or instance:IsA("Pants") or instance:IsA("CharacterMesh") then
 		return instance:Clone()
 	end
+	return nil
 end
