@@ -6,6 +6,7 @@ return function(basePart)
 		result = basePart:Clone()
 	else
 		-- TODO: Manually clone simple BaseParts
+		-- selene: allow(if_same_then_else)
 		result = basePart:Clone()
 	end
 
