@@ -1,0 +1,23 @@
+{
+	"name": "ObjectHighlighter",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+				"$className": "Folder",
+				"ObjectHighlighter": {
+					"$path": "src"
+				}
+			}
+		},
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Examples": {
+					"$path": "examples"
+				}
+			}
+		}
+	}
+}
