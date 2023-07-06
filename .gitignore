@@ -1,0 +1,8 @@
+# Rojo
+/*.rbxl*
+/*.rbxm*
+sourcemap.json
+
+# Wally
+Packages/
+wally.lock
